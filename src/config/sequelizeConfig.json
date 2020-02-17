@@ -1,0 +1,11 @@
+{
+  "database": "tutorial",
+  "username": "postgres",
+  "password": null,
+  "params": {
+    "host": "localhost",
+    "dialect": "sqlite",
+    "operatorsAliases": false,
+	"storage":"database.sqlite3"
+  }
+}
